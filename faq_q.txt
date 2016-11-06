@@ -1,0 +1,48 @@
+Where can I find listings of current and withdrawn system laptop type models and specifications?
+How can I check the warranty status of my laptop?  I want to confirm whether it is still in warranty, and what warranty upgrades may be in effect - onsite, Thinkpad protection, etc.
+How do I contact support?
+I travel frequently, and I want to be sure the system I have, or am going to buy can be serviced in the country or countries I travel to.  Where can I look to find this out?
+When traveling, how will I know what number to call for service or support?
+I've heard about previous problems with batteries, and I've purchased a second hand system.  How can I tell if my laptop has a battery that was affected? 
+Where can I find drivers, user manuals, technical tips for Lenovo Consumer models like Y410  Laptops and K100 Desktops sold in retail stores?
+Where can I download drivers and software for my laptop?
+I need to replace an FRU. Where can I download a service manual for my laptop?
+How can I tell what parts my laptop is made up of?
+What's the policy on dead pixels?
+My laptop is at the depot for repair.  How can I check on its status?
+My system has shipped, and when I look at the tracking status, I see "The shipment is being held by brokerage for reasons beyond ups' control".  What's that mean?
+My laptop came with Windows Vista and I want to downgrade to XP. How do I do it?
+I already downgraded to XP and now I want to go back to Vista. What do I do?
+Laptop won't turn on
+I am having trouble with with this accessory
+I am having power management issues
+I have a blue screen
+I have a lock up
+I have a hang
+My Bluetooth device is not recognized
+My laptop camera doesn't work
+My card reader does not detect my card
+CD or DVD cannot burn or play
+Ethernet will not connect
+Fingerprint reader will not detect finger or swipe
+Hard drive failed or is failing
+Memory is not recognized
+Modem will not connect
+Projector image does not display properly on an overhead screen
+Sound is not available
+USB device is not recognized
+User's Guide cannot be found
+Video display is flickering or is not available
+Virus, worm, or spyware infection
+Windows Vista performance is slow
+Wireless will not connect
+I am having trouble with audio?
+I am having trouble with battery?
+I am having trouble docking?
+I am having trouble with my keyboard?
+I am having trouble with my mouse?
+I am having trouble with my TrackPoint?
+I am having trouble with my UltraNav?
+I am having power issues?
+I am having trouble with ThinkVantage Client Security Solution?
+I am having trouble with ThinkVantage Rescue and Recovery Solution?

@@ -1,0 +1,9 @@
+exists(i).
+exists(have).
+exists(problem).
+exists(while).
+exists(charging).
+exists(my).
+exists(lenovo).
+exists(laptop).
+exists(battery).
